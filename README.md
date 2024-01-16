@@ -1,4 +1,4 @@
-# Opinioted and Usecase Based of Naive Bayes Algorithm
+# Opinionated and Usecase Based of Naive Bayes Algorithm
 
 ## Description
 

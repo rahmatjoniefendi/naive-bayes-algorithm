@@ -23,3 +23,7 @@ Completed
 ## Tech Stack
 - Programming Language
   - Python
+
+## Applications
+- Medical Diagnostic Tools ([Click here for more details](https://rahmatjoniefendi.github.io/projects/medical_diagnostic_tools.html))
+- Gastric Disease Diagnostic Expert System Using Naive Bayes Method and Certainty Factor Method ([Click here for more details](https://rahmatjoniefendi.github.io/projects/gastric_disease_diagnostic_tool_nb_cf.html))
